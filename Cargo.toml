@@ -3,5 +3,6 @@ name = "myproject"
 version = "0.1.0"
 edition = "2021"
 
-[dependencies]
-rocket = "0.5.0"
+[lib]
+name = "mylibrary"
+path = "src/lib.rs"
