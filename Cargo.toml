@@ -5,4 +5,4 @@ edition = "2021"
 
 [lib]
 name = "mylibrary"
-path = "src/lib.rs"
+path = "src/main.rs"
